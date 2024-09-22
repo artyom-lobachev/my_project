@@ -7,5 +7,6 @@ int main() {
     printf("Введите второе целое число: ");
     scanf("%d", &b);
     printf("Числа: %d, %d\n", a, b);
+	printf("Сумма: %d\n", a + b);
     return 0;
 }
